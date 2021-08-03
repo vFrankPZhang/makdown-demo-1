@@ -15,5 +15,7 @@
 ```python
 print('hello')
 ```
-write-host "hello"
+
 ```powershell
+write-host "hello"
+```
